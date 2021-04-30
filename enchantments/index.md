@@ -4,7 +4,9 @@ title: Enchantments
 permalink: /enchantments/
 ---
 
-## Everything
+## Enchantments
+
+### Any Enchantable Item
 * **Eternal** - Items with this enchant no longer despawn due to time reasons. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Global Traveler** - Equipment with this enchantment will teleport dropped items/mob drops to a linked inventory, can be disabled by shift clicking.  [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Magnetic** - Equipment with this enchant will teleport mined blocks/mob drops into your inventory. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
@@ -17,7 +19,9 @@ permalink: /enchantments/
   * **Unbreaking IV** - Combine an Unbreaking III book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Unbreaking V-X** - Custom upper-tier books. See JEI for recipes
 
-## Bow only
+### Weapons
+
+#### Bows
 * **Back To the Chamber I-V** - has a chance of returning arrows that strike an enemy back to the inventory, 20% chance per level, works with tipped arrows, conflicts with infinity and multishot. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Exploding** - Arrows explode on contact with a mob, does not destroy blocks. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Flame** - Turns arrows into flaming arrows [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -43,7 +47,7 @@ permalink: /enchantments/
 * **Trueshot** - Increases the accuracy and speed of arrows, and allows them to pierce. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Volley** - Additional arrows are fired with each shot. Only one arrow is consumed. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 
-## Bow and Sword
+#### Bows and Swords
 * **Cursed Jumping** - any mob struck with this enchantment will be unable to prevent themselves from skyrocketing into the air when they jump [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Disarm** - any mob struck with this enchant will drop their weapon. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Floating** - any mob struck with this enchant will be affected by the  Shulker Effect Floating for 10 seconds. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
@@ -53,7 +57,7 @@ permalink: /enchantments/
 * **Swiftness I-V** - Multiplies attack speed of held item. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **True Lifesteal** - Damage dealt by a weapon enchanted with this restores some health; armor piercing [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 
-## Swords only
+#### Swords
 * **Bane of Arthropods I-V** - Increases attack damage against arthropods [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Bane of Arthropods VI** - Combine a Bane of Arthropods V book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Cavalier** - Increases damage when riding something. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
@@ -82,14 +86,14 @@ permalink: /enchantments/
 * **Vigilante** - Increases damage dealt to Illager mobs (and Ravagers). [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Vorpal** - Randomly performs powerful attacks and decapitations. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 
-## Crossbow only
+#### Crossbows
 * **Multishot** - Shoots 3 arrows at once but only costs 1 arrow [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Piercing I-IV** - Arrow can pierce through multiple entities [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Piercing V** - Combine a Piercing IV book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Quick Charge I-III** - Reduces the amount of time to reload a crossbow [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Reeling** - Pulls mobs close upon arrow impact [(Allurement)](https://www.curseforge.com/minecraft/mc-mods/allurement)
 
-## Tridents
+#### Tridents
 * **Channeling** - Summons a lightning bolt at a targeted mob when enchanted item is thrown (targeted mob must be standing in raining) [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Impaling I-V** - Increases attack damage against sea creatures [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Impaling VI** - Combine an Impaling V book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -98,7 +102,9 @@ permalink: /enchantments/
 * **Riptide I-III** - Propels the player forward when enchanted item is thrown while in water or rain [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Riptide IV** - Combine a Riptide III book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 
-## Tools only
+### Tools
+
+#### Any Tool
 * **Acquisition** - adds block drops straight to your inventory. This enchantment may also be added to shears. [(Charm)](https://svenhjol.github.io/Charm/vanillachanges/smithing)
 * **Efficiency I-V** - Increases how fast you can mine [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Efficiency VI** - Combine an Efficiency V book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -115,17 +121,17 @@ permalink: /enchantments/
 * **Stonebound** - Tool gains more mining speed at lower durability, but reduced damage. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Stonelover** - Pickaxe has an 80% chance to restore 1 durability if mining stone (does not include cobblestone).  [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 
-## Shulker Boxes
+#### Shulker Boxes
 * **Refill** - Using an item or placing a block will use up the inventory of your shulker box instead of your main inventory. Basically, this refills your held stack of items or blocks..  [(Shulker Enchantments)](https://www.curseforge.com/minecraft/mc-mods/shulker-enchantments)
 * **Siphon** - Any item that you pick up will be immediately stored in your Shulker Box as long as that Shulker Box already has at least one item of the same type.  [(Shulker Enchantments)](https://www.curseforge.com/minecraft/mc-mods/shulker-enchantments)
 
-## Hoes
+#### Hoes
 * **Excavating** - Harvests additional blocks in a radius. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Furrowing** - Tills additional blocks in a line. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Tilling** - Tills additional blocks in a radius. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Weeding** - Clears plants while tilling blocks. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 
-## Fishing rod
+#### Fishing Rods
 * **Angler's Bounty** - Provides a chance of catching extra items when fishing. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Grappling** - If used on a block, launches the player, make sure to have fall protection. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Luck of the Sea I-III** - Increases chances of catching valuable items [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -135,7 +141,9 @@ permalink: /enchantments/
 * **Pilfering** - Steals armor from a hooked target. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Snatching** - Pulls the armor off of whatever mob it hits. [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 
-## Armor: All
+### Armor
+
+#### Any Armor
 * **Alleviating** - Heals the player upon collection of experience [(Allurement)](https://www.curseforge.com/minecraft/mc-mods/allurement)
 * **Blast Protection I-IV** - Reduces blast and explosion damage [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Fire Protection I-IV** - Reduces damage caused by fire and lava [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -146,7 +154,7 @@ permalink: /enchantments/
   * **Thorns IV** - Combine a Thorns III book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Vengeance** - Counts part of your incoming damage and applies it to your next attack [(Allurement)](https://www.curseforge.com/minecraft/mc-mods/allurement)
 
-## Armor: Chestplate
+#### Chestplates
 * **Chilling Rebuke** - Slows and weakens attackers while knocking them away. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Deflect** - Arrows shot towards the wearer get vaporized, does not apply to player arrows  (Chestplate only). [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Displacement** - Randomly teleports attackers away. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
@@ -154,14 +162,14 @@ permalink: /enchantments/
 * **Reach** - Increases the distance that the wielder can interact with things. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Vitality** - Increases maximum health. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 
-## Armor: Helmet
+#### Helmets
 * **Air Affinity** - Removes the mining speed penalty when not on the ground. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Aqua Affinity** - Speeds up how fast you can mine blocks underwater [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Gourmand** - Food is more nourishing and satisfying when consumed. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Insight** - Increases experience gain when using the item. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Respiration I-III** - Extends underwater breathing (see better underwater) [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 
-## Armor: Boots
+#### Boots
 * **Depth Strider I-III** - Speeds up how fast you can move underwater [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 * **Feather Falling I-IV** - Reduces fall and teleportation damage [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
   * **Feather Falling V** - Combine a Feather Falling IV book with an Ancient Tome [(Quark)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
@@ -170,11 +178,11 @@ permalink: /enchantments/
 * **Shockwave** - Creates a shockwave that damages nearby enemies based on how high you fall. [(Allurement)](https://www.curseforge.com/minecraft/mc-mods/allurement)
 * **Soul Speed I-III** - Speeds up how fast you can move across soul sand and soul soil [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
 
-## Shields
+#### Shields
 * **Bulwark** - Prevents the wielder from being knocked back. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 * **Phalanx** - Allows the wielder to move faster while using a shield. [(Ensorcellation)](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
 
-## Curses
+### Curses
 * **Breaking** - makes tool break faster, 3 levels [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Butterfingers** - Oops [(Random Enchants)](https://www.curseforge.com/minecraft/mc-mods/random-enchants)
 * **Curse of Binding** - Cursed item can not be removed from player [(Vanilla)](https://www.digminecraft.com/lists/enchantment_list_pc.php)
