@@ -4,4 +4,10 @@ title: Mobs
 permalink: /mobs/
 ---
 
-mobs
+## Mobs
+
+### Passive
+
+### Hostile
+
+### Neutral
