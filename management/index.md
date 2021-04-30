@@ -4,4 +4,6 @@ title: Management
 permalink: /management/
 ---
 
-management
+## Management
+
+### Inventory

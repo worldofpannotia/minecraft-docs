@@ -4,4 +4,4 @@ title: Automation
 permalink: /automation/
 ---
 
-automation
+## Automation

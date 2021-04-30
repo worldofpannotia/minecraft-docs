@@ -6,6 +6,7 @@ permalink: /tools-and-equipment/rings-of-ascension/
 ---
 
 ## Tools & Equipment
+
 ### Rings of Ascension
 
 <table>
